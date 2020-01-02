@@ -7,4 +7,4 @@ required packages:
 2. [Computer Vision Toolbox](https://kr.mathworks.com/products/computer-vision.html)
 
 ## Usage
-Install the required packages, connect an USB webcam, and run the code in MATLAB.
+Install the required packages, connect an USB webcam, and run the webcam_OCR.m code in MATLAB.
