@@ -8,3 +8,6 @@ required packages:
 
 ## Usage
 Install the required packages, connect an USB webcam, and run the webcam_OCR.m code in MATLAB.
+
+## Links
+[A post in my blog](https://projecteli.tistory.com/137)
